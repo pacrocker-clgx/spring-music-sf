@@ -16,6 +16,8 @@ target/
 
 .gradle
 build/
+bin/
+.vscode/
 
 *.log*
 /classes/
